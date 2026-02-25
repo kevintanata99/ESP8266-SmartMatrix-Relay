@@ -49,7 +49,8 @@ An IoT project utilizing an ESP8266 (NodeMCU) to run a web server that controls 
 **Kevin Leonardo Tanata**
 * Creator & Developer
 
-===
+---
+---
 
    # ESP8266 Smart Matrix & Relay Controller
 
